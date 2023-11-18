@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">非视</string>
+    <string name="title_home">首页</string>
+    <string name="title_friend">朋友</string>
+    <string name="title_message">消息</string>
+    <string name="title_me">我</string>
+</resources>
